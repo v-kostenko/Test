@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a03bf23c-ad23-42c9-be92-8fad198c8a66" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/wordpres/WordPres.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,5 +54,11 @@
       <updated>1586289555928</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1203" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1586323171679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1203" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586323171679" />
   </component>
 </project>
